@@ -1,0 +1,1 @@
+hook.send('I am now alive!');
